@@ -23,3 +23,13 @@ Nessa aula aprendi:
 - O que é uma função, para que servem, como declará-la e sua sintaxe básica. Além disso, viu que a ordem de execução de um código JavaScript importa, desde a inserção da tag script antes do fechamos da tag </body> no HTML até a ordem do código JavaScript dentro do seu próprio arquivo.
 
 - A utilizar o onclick como atributo no JavaScript, e como atribuir uma função ao onclcik sem que esta função seja invocada imediatamente.
+
+## Aula-3: Listas
+
+Nessa aula aprendi:
+
+- O que são os comentários de código e como utilizá-los para auxiliar durante a escrita da nossa aplicação. Vimos também uma alternativa ao querySelector quando necessário buscar muitos elementos, que é o querySelectorAll, que retorna uma lista (NodeList) com todos os elementos do seletor informado evitando a repetição de código.
+
+- Para que serve uma referência e como declaramos uma referência de valor constante no código.
+
+- A estrutura de uma lista em JavaScript e como podemos acessar os elementos a partir dos índices com a sintaxe do colchetes.
