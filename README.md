@@ -1,6 +1,18 @@
-# Alura_midi
+# Nome do meu projeto
+
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev |                                      |
+| --------------------- | ------------------------------------ |
+| :sparkles: Nome       | **Alura Midi**                       |
+| :label: Tecnologias   | HTML, CSS, JavaScript                |
+| :rocket: URL          | https://midprojectalura.netlify.app/ |
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/23ebb70b-8391-42dd-b522-7c0800b86ffe/deploy-status)](https://app.netlify.com/sites/midprojectalura/deploys)]
+
+<img alt="AluraMidi" src=".github/mockupProjeto.png" width="100%" link="#vitrinedev">
+
+## Detalhes do projeto
 
 Projeto desenvolvido com foco na linguagem Javascript, a estrutura HTML e CSS foram fornecidas pela Alura. O projeto consiste em criar uma controladora mid para disparar diferentes tipos de som ao clicar nos botões disposte em tela.
 
