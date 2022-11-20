@@ -8,7 +8,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :label: Tecnologias   | HTML, CSS, JavaScript                |
 | :rocket: URL          | https://midprojectalura.netlify.app/ |
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/23ebb70b-8391-42dd-b522-7c0800b86ffe/deploy-status)](https://app.netlify.com/sites/midprojectalura/deploys)]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/23ebb70b-8391-42dd-b522-7c0800b86ffe/deploy-status)](https://app.netlify.com/sites/midprojectalura/deploys)
 
 <img alt="AluraMidi" src=".github/mockupProjeto.png" width="100%" link="#vitrinedev">
 
